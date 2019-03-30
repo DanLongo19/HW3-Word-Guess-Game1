@@ -1,0 +1,75 @@
+* {
+    line-height: 2;
+
+}
+
+#container {
+    align-content: 10px;
+    line-height: 2.5;
+}
+
+/* .logo { */
+    /* float: left; */
+    /* height: 2px; */
+    /* width: 2px; */
+
+
+
+header {
+    position: absolute;
+    color: gold;
+    top:0;
+    left:0;
+    width:100%;
+    background-color:navy; 
+    display:flex;
+    text-align: center;
+}
+
+body {
+    width: 960px; 
+    background-image: url("/assets/images/Field.png");        
+    width: 300px;
+    height: 300px;
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    align-items: center;
+    padding-top: 300px;    
+    }
+
+.panel-heading {
+    align-content: center;
+
+}
+/* .h2, h2 { */
+    /* font-weight: 500; */
+    /* font-size: 5px; */
+
+
+
+.h1, .h2, h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+     font-family: 'Pacifico', cursive;;
+    }
+
+.h {
+    font-family: 'Pacifico', cursive;
+    
+}
+
+#main {
+    color: gold;
+
+}
+
+.panel-title{
+    color:gold;
+}
+
+.panel-default{
+    justify-content: center;
+    color:navy;
+    font-family: 'Pacifico', cursive; 
+    font-size: 20px;
+    align-content: center;
+
+}
